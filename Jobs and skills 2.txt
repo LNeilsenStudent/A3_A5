@@ -1,0 +1,35 @@
+Full Stack Developer
+Company: - Dual Cab
+Location: - Melbourne VIC
+Employment: -Full time
+About Role: -
+* Work with engineers and product team to ideate software solutions.
+* Design client-side and server-side architecture.
+* Build the front end of applications with appealing visual design.
+* Develop and manage well-functioning databases and applications.
+* Write effective APIs.
+* Test software to ensure responsiveness, scalability, efficiency, and security.
+* Troubleshoot, debug and maintain software.
+* Implement security and data protection measures.
+* Build features and applications within a mobile-first paradigm.
+* Write supporting technical documentation, when necessary.
+Who you are (essential):
+* Server Side Development: e.g. Node/TypeScript, Serverless, IaC
+* Client Side Development: e.g. React, Angular, TypeScript, CSS, HTML
+* Mobile: Ionic
+* Jira, Miro, Figma, Zoom
+* Google Workspace & Office 365
+* Atlassian
+* AWS
+* Mac & Linux
+Who you might be (desirable but not essential):
+* Communication and collaboration skills.
+* Organisation and prioritisation skills.
+* Proactive learner.
+* Solution-oriented, analytical mindset.
+* Critical thinking skills.
+* Attention to detail.
+Who We Are:
+Dual Cab is a software company dealing with mobile apps. This opportunity is mainly focused on their upcoming project Quick Quote Calculator.
+
+Dual Cab is an equal opportunity employer and strives to maintain a workplace environment that is fair and free of discrimination, is safe and accessible for all employees, and provides working arrangements that accommodate the diverse needs of our staff.
